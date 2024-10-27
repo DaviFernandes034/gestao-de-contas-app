@@ -1,0 +1,46 @@
+APP gestão de contas para pequenas e medias empresas
+
+funcionalidades:
+
+Gestão de clientes/fornecedores
+	.informações de contato clientes:
+	  . nome
+	  . numero de telefone
+	  . cpf
+	  . email
+	  
+	.informações de contato fornecedores
+      	   . CNPJ
+      	   . nome empresarial
+      	   . telefone
+      	   . email
+      	   . endereço
+      	         	   
+gestao de contas a pagar/receber
+
+	. informações de conta a pagar/receber
+	. fornecedor
+	. descrição
+	. valor
+	. categoria 
+	. metodo de pagamento  
+	. status da conta 
+	. data de vencimento
+
+emissao de fatura e notas fiscais
+
+	. informações de fatura e notais fiscais
+	.Dados Básicos: Nome e endereço do cliente, descrição dos produtos/serviços, quantidade, preço unitário, imposto aplicáveis,e valor total.
+        .Personalização de Número de Fatura/Nota Fiscal: Numeração automática e customizável para facilitar o controle e a auditoria.
+
+	. Emissão de Notas Fiscais Eletrônicas (NFe): Integração com o sistema de emissão de NFe para atender às regulamentações 	locais e gerar documentos fiscais válidos.
+
+controle de caixa/fluxo de caixa
+
+	.informações de caixa/fluxo de caixa
+		.Entrada de dinheiro
+		.Saida de dinheiro
+		. dispesas
+		.saldo
+
+
